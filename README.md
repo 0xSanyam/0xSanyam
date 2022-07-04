@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and exploring Web3
 
--  I’m looking to collaborate on anything Web3 related
+- 🤝 I’m looking to collaborate on anything Web3 related
 
 - 🌐 I’m looking for *help* with wifi connection
 
