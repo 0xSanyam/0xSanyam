@@ -1,7 +1,7 @@
 ![Header](https://github.com/0xSanyam/0xSanyam/blob/main/assets/cat.gif)
 
 <h1 align="center">Hi <img src="https://github.com/0xSanyam/0xSanyam/blob/main/assets/Hi.gif" width="28">, I'm Sanyam</h1>
-<h3 align="center">A Web3 enthusiast from India</h3>
+<h3 align="center">A Web3 enthusiast</h3>
 
 - 🌱 I’m currently learning and exploring Web3
 
