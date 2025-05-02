@@ -21,11 +21,11 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
-### 📊GitHub Stats :
+<!--- ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=0xSanyam&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xSanyam&theme=radical&hide_border=false)<br/>
 ![GitHub Snake Light](https://github.com/0xSanyam/0xSanyam/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/0xSanyam/0xSanyam/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://github.com/0xSanyam/0xSanyam/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
 <!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSanyam&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ### Random Dev Quote
